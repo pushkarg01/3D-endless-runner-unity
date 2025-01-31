@@ -493,7 +493,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 88.04927
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -6864,7 +6864,7 @@ GameObject:
   - component: {fileID: 1644464903}
   - component: {fileID: 1644464902}
   m_Layer: 0
-  m_Name: Obs Destroyer
+  m_Name: Obstacle Destroyer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6980,7 +6980,7 @@ MonoBehaviour:
     LookAtTarget: {fileID: 0}
     CustomLookAtTarget: 0
   Lens:
-    FieldOfView: 60
+    FieldOfView: 88.04927
     OrthographicSize: 5
     NearClipPlane: 0.3
     FarClipPlane: 1000
@@ -7536,7 +7536,7 @@ SceneRoots:
   - {fileID: 934922749}
   - {fileID: 1644464904}
   - {fileID: 1397745309}
+  - {fileID: 742353017}
   - {fileID: 288436584}
   - {fileID: 1842842009}
-  - {fileID: 742353017}
   - {fileID: 34528452}
